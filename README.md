@@ -1,5 +1,7 @@
-# Welcome  🤗
-Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
+# Welcome 🤗
+Hello 👋, <b>I'm Ajay.</b> I'm a 1st year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App developer.
+
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 <br>
 
@@ -57,13 +59,7 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 <ul>
 <li><a href="https://github.com/Aj3322/Weather_G"> Weather G</a> </li>
 <ul>
-
 <br>
-
-<br>
-
-🚀 Visit my personal portfolio.
-
 #### Contact Me
 <a href="mailto:kumarajay.rs3322@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ajay-kumar-276a681ab/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
