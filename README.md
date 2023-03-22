@@ -58,8 +58,8 @@ Hello 👋, <b>I'm Ajay.</b> I'm a 1st year B.Tech Computer Science Engineering 
 ### Featured Projects
 <ul>
 <li><a href="https://github.com/Aj3322/Weather_G"> Weather G</a> </li>
-<ul>
-<br>
+</ul>
+  
 #### Contact Me
 <a href="mailto:kumarajay.rs3322@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ajay-kumar-276a681ab/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
