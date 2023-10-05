@@ -44,8 +44,6 @@ Hello 👋, I'm Ajay, a 1st-year B.Tech Computer Science Engineering Student at 
 - [Weather G](https://github.com/Aj3322/Weather_G)
 
 
-## Coding Timestamp
-![WakaTime](https://wakatime.com/badge/github/Aj3322/YourRepositoryName.svg)
 
 ## Contact Me
 - Email: [kumarajay.rs3322@gmail.com](mailto:kumarajay.rs3322@gmail.com)
