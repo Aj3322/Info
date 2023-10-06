@@ -3,7 +3,6 @@
 Hello 👋, I'm Ajay, a 1st-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm passionate about app development.
 
 > ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-> ## The only way to do great work is to love what you do.
 
 ## About Me
 - 👨‍💻 I'm constantly learning and exploring new technologies.
