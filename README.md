@@ -1,4 +1,6 @@
 # Welcome 🤗
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aj3322)
+
 
 Hello 👋, I'm Ajay, a 1st-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm passionate about app development.
 
@@ -12,7 +14,6 @@ Hello 👋, I'm Ajay, a 1st-year B.Tech Computer Science Engineering Student at 
 ## 🏆 Achievements
 - March 2023: GDSC Member
 - Uhacthon4.0 Participant
-
 ## Technical Skills
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
