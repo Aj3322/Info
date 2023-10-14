@@ -48,3 +48,4 @@ Hello 👋, I'm Ajay, a 1st-year B.Tech Computer Science Engineering Student at 
 ## Contact Me
 - Email: [kumarajay.rs3322@gmail.com](mailto:kumarajay.rs3322@gmail.com)
 - LinkedIn: [Ajay Kumar](https://www.linkedin.com/in/ajay-kumar-276a681ab/)
+- Phone: [9523137146]
